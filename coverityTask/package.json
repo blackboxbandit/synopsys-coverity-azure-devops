@@ -21,7 +21,7 @@
     "azure-pipelines-task-lib": "^2.8.0",
     "compare-versions": "^3.4.0",
     "request": "^2.88.0",
-    "request-promise-native": "^1.0.7",
+    "request-promise-native": "^1.0.9",
     "soap": "^0.26.0",
     "url-join": "^4.0.0"
   },
