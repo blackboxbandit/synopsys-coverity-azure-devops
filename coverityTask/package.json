@@ -20,7 +20,7 @@
     "@types/bluebird": "^3.5.26",
     "azure-pipelines-task-lib": "^3.3.1",
     "compare-versions": "^3.6.0",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "request-promise-native": "^1.0.9",
     "soap": "^0.45.0",
     "url-join": "^4.0.0"
